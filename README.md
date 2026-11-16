@@ -75,24 +75,24 @@ More on the [portfolio →](https://syedmdsaad.github.io/Portfolio/)
 
 ## Research &amp; Publications
 
-**Yoga Pose Detection and Correction Using Machine Learning Approaches**
-*ICCCNT 2025, IIT Indore — IEEE*
+**Yoga Pose Detection and Correction Using Machine Learning Approaches**<br>
+*ICCCNT 2025, IIT Indore — IEEE*<br>
 Real-time posture correction model using CNN, XGBoost and MediaPipe, achieving **92% pose accuracy**.
 
-**Machine Learning Techniques for Detecting DoS and DDoS Attacks: Methods, Attacks and Datasets**
-*Indian Journal of Technical Education (ISTE), 2026*
+**Machine Learning Techniques for Detecting DoS and DDoS Attacks: Methods, Attacks and Datasets**<br>
+*Indian Journal of Technical Education (ISTE), 2026*<br>
 Intrusion detection system using MLP and LSTM, achieving **>99% accuracy** on CIC-IDS benchmarks.
 
 ---
 
 ## Experience
 
-**Machine Learning Intern (Google AI/ML Virtual Internship)** — EduSkills Foundation · *Jan 2025 – Apr 2025*
+**Machine Learning Intern (Google AI/ML Virtual Internship)** — EduSkills Foundation · *Jan 2025 – Apr 2025*<br>
 Implemented ML pipelines for classification and NLP using CNN and XGBoost across 50,000+ records,
 improving accuracy 15–20%. Designed RESTful APIs for secure inter-service transmission, improving
 transfer efficiency by 30%.
 
-**Machine Learning Intern | Team Lead** — Pune Institute of Computer Technology · *Feb 2025 – Apr 2025*
+**Machine Learning Intern | Team Lead** — Pune Institute of Computer Technology · *Feb 2025 – Apr 2025*<br>
 Built a real-time posture analysis system with MediaPipe, CNN, XGBoost and SVM: 20% accuracy gain,
 35% better error detection, 25% faster processing. Led a 3-member team across design, deployment,
 testing, performance tuning and UX. Published at IEEE ICCCNT 2025.
@@ -116,13 +116,13 @@ testing, performance tuning and UX. Published at IEEE ICCCNT 2025.
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404040?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-404040?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 **AI**
 
-![Ollama](https://img.shields.io/badge/LLMs_·_Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-111111?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/LLMs_·_Ollama-404040?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-404040?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
@@ -138,12 +138,12 @@ testing, performance tuning and UX. Published at IEEE ICCCNT 2025.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-291A3F?style=for-the-badge&logo=testcontainers&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-404040?style=for-the-badge&logo=testcontainers&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 **Frontend**
