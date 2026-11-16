@@ -91,7 +91,7 @@
   </g>
   <g>
     <rect x="816" y="124" width="320" height="58" rx="12" fill="#FFFFFF" fill-opacity="0.045" stroke="#A78BFA" stroke-opacity="0.32" class="card" style="animation-delay:2s"/>
-    <text x="836" y="162" class="num">30+</text>
+    <text x="836" y="162" class="num">27</text>
     <text x="932" y="159" class="lbl">PRs to Elasticsearch &amp; Lucene</text>
   </g>
   <g>

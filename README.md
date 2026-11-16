@@ -51,7 +51,7 @@ Merged contributions to large distributed-systems and search codebases:
 | [apache/lucene](https://github.com/apache/lucene/pull/15719) | Improved JavaDocs for the `org.apache.lucene.util` package |
 | [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java/pull/7275) | Added `RemoveStars` and `ComplexNumberMultiply` string algorithms |
 
-Beyond those, I've opened 30+ pull requests against Elasticsearch and Lucene, chasing flaky
+Beyond those, I've opened 27 pull requests against Elasticsearch and Lucene, chasing flaky
 tests, resource leaks in the chunked fetch phase, ESQL planner bugs and memory exhaustion in
 lookup joins. Reading a codebase that large is its own skill, and it's where most of what I know
 about distributed systems actually came from.
